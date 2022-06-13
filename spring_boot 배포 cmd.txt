@@ -1,0 +1,11 @@
+해당하는 프로젝트 주소로 이동 (cd hello-spring)
+
+gradlew build  (다운받음)
+
+cd build
+cd libs
+java -jar hello-spring-0.0.1-SNAPSHOT.jar
+스프링 실행됨
+
+종료하려면
+hello-spring 에서 gradlew build clean 입력
